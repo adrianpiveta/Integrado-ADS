@@ -29,9 +29,9 @@ var nome, nota;
 nome = prompt("Nome? ");
 nota = prompt("Qual nota? ");
 
-if (nota >=70) {
+if (nota >= 70) {
     console.log("Aluno "+ nome + " aprovado");
-} else if(nota >=40){
+} else if(nota >= 40){
     console.log("Aluno " + nome + " de exame");
 } else {
     console.log("Aluno "+ nome + " reprovado");
