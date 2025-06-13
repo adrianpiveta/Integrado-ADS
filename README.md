@@ -7,4 +7,4 @@ Atividades e afins do curso de análise e desenvolvimento de sistemas do grupo I
 
 
 ## Projeto 2 (Página web) - Loja
-[Clique AQUI](./"Projeto tech academy 2"/Index.html)
+[Clique AQUI](./Projeto%20tech%20academy%202/Index.html)
